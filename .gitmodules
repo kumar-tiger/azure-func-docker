@@ -1,0 +1,3 @@
+[submodule "azuredemo"]
+	path = azuredemo
+	url = git@github.com:kumar-tiger/azuredemo.git
